@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "new book in ec dept",
+      "id": 1
+    },
+    {
+      "name": "new book in mech dept",
+      "id": 2
+    },
+    {
+      "name": "Pooja Jalagekar",
+      "id": 3
+    }
+  ]
+}
